@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('https://drive.google.com/uc?id=1KHUAxMslujJ2UO1mmR11wR3F2pKp7cqj&export=download');
+  src: url('https://drive.google.com/uc?id=1jyB_PKIBcynS_OucKzkk9UcmMh-25Kdy&export=download') format('woff'),
+       url('https://drive.google.com/uc?id=1zKaWHxalfYlWp9zpxVh57pB5Zuc8QV4c&export=download') format('truetype'),
+       url('https://drive.google.com/uc?id=1y_XTgZGsJDQUXaj6gNu471KNzVeJ3cni&export=download#SolaimanLipiNormal') format('svg'),
+       url('https://drive.google.com/uc?id=1KHUAxMslujJ2UO1mmR11wR3F2pKp7cqj&export=download?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
