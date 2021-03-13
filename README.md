@@ -1,6 +1,4 @@
-# কালপুরুষ বাংলা ফন্ট CDN
-# Kalpurush Bangla Font CDN
-
+# ERROR 404!
 
 # CDN USE : 
-https://cdn.jsdelivr.net/gh/RokibulRoni/raw@kalpurush/font.css
+https://cdn.jsdelivr.net/gh/RokibulRoni/raw@portfolio/
